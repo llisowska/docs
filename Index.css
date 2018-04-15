@@ -1,55 +1,44 @@
 body {
-font-size: 1.5em;
+  font-size: 1.5em;
 }
+
 .main {
-display: grid;
-grid-gap: 5px;
-grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-height: 100vh;
-width: 100vw;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  height: 100vh;
+  width: 100vw;
 }
-#link{
-color:black; 
-text-shadow: 2px 2px grey; 
-border-radius: 15px;    
-}
+
 .one {
-grid-area: 1 / 1 / 4 / 4;
-background-image: url(https://www.stockvault.net/data/2016/04/19/194120/preview16.jpg);
-      background-size: cover;
+  background-image: url(https://picsum.photos/800/800/?gravity=center)
 }
+
 .two {
-grid-area: 1 / 4 / 5 / 6;
-background-image: url(https://www.stockvault.net/data/2013/03/11/142746/preview16.jpg);
+  background-color: #8fbc8f;
 }
+
 .three {
-grid-area: 4 / 1 / 7 / 3;
-background-image: url(https://www.stockvault.net/data/2015/11/03/180822/preview16.jpg);
+  background-color: #00ddcc;
 }
+
 .four {
-grid-area: 5 / 3 / 7 / 6;
-background-image: url(https://foter.com/photos/397/number-count-decade-school-slide-rule-mathematics.jpg);
-
+  background-color: #dd0000;
 }
-.five {
-grid-area: 4 / 3 / 5 / 4;
-background-image: url(https://foter.com/photos/394/watering-nature-water.jpg);
 
-}
 .main > div {
-display: flex;
-flex-direction: column;
-justify-content: center;
-text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
 }
+
 @media screen and (max-width: 600px) {
-.main {
-display: block;
+  .main {
+    display: block;
+  }
+  .main > div {
+    height: 200px;
+  }
 }
-.main > div {
-height: 200px;
-}
-}
-
-
