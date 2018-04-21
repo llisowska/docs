@@ -22,13 +22,13 @@ background-size:cover;
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
-  background-image: url(https://thumb9.shutterstock.com/mosaic_250/564532/521741356/stock-photo-healthy-salad-bowl-with-quinoa-tomatoes-chicken-avocado-lime-and-mixed-greens-lettuce-parsley-521741356.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2018/01/08/17/30/mushrooms-3069822__340.jpg);
 background-size:cover;
 }
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-image: url(https://images.unsplash.com/photo-1503838922633-d7892c7a2bc0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fdf7220735fdafd18768fe29157256b7&auto=format&fit=crop&w=334&q=80);
+  background-image: url(https://thumb9.shutterstock.com/mosaic_250/564532/390942682/stock-photo-fresh-salad-with-chicken-tomatoes-and-mixed-greens-arugula-mesclun-mache-on-wooden-background-390942682.jpg);
 background-size:cover;
 }
 
