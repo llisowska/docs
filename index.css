@@ -11,9 +11,6 @@ body {
   width: 100vw;
 }
 
- 
-}
-
 .one {
   grid-area: 1 / 1 / 4 / 4;
   background-image: url(https://thumb9.shutterstock.com/mosaic_250/564532/521741356/stock-photo-healthy-salad-bowl-with-quinoa-tomatoes-chicken-avocado-lime-and-mixed-greens-lettuce-parsley-521741356.jpg);
