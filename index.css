@@ -13,7 +13,7 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url(https://thumb9.shutterstock.com/mosaic_250/564532/521741356/stock-photo-healthy-salad-bowl-with-quinoa-tomatoes-chicken-avocado-lime-and-mixed-greens-lettuce-parsley-521741356.jpg);
+  background-image: url(https://thumb10.shutterstock.com/mosaic_250/60694/162331463/stock-photo-italian-food-background-with-vine-tomatoes-basil-spaghetti-mushrooms-olives-parmesan-olive-162331463.jpg);
 background-size:cover;
 }
 
@@ -31,12 +31,13 @@ background-size:cover;
 
 .four {
   grid-area: 5 / 3 / 7 / 6;
-  background-color: #008080;
+  background-image: url(https://cdn.pixabay.com/photo/2017/05/31/09/31/cake-2359702__340.jpg);
+  background-size:cover;
 }
 
 .five {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url(https://cdn.pixabay.com/photo/2017/09/22/19/05/tomato-2776735__340.jpg);
+  background-image: url(https://cdn.pixabay.com/photo/2017/11/28/13/46/dark-mood-food-2983709__340.jpg);
   background-size:cover;
 }
 
