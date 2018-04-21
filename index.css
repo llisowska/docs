@@ -11,7 +11,7 @@ body {
   width: 100vw;
 }
 
-.Kuchnia gruzińska {
+.one {
   grid-area: 1 / 1 / 4 / 4;
   background-image: url(https://thumb10.shutterstock.com/mosaic_250/60694/162331463/stock-photo-italian-food-background-with-vine-tomatoes-basil-spaghetti-mushrooms-olives-parmesan-olive-162331463.jpg);
 background-size:cover;
