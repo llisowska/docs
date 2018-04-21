@@ -17,16 +17,18 @@ body {
 .one {
   grid-area: 1 / 1 / 4 / 4;
   background-image: url(https://images.unsplash.com/photo-1503243368095-00d2d648be32?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=957833ee1d1fe3fd9d876b132592ad20&auto=format&fit=crop&w=500&q=60);
+background-size:cover;
 }
 
 .two {
   grid-area: 1 / 4 / 5 / 6;
   background-image: url(https://thumb9.shutterstock.com/mosaic_250/564532/521741356/stock-photo-healthy-salad-bowl-with-quinoa-tomatoes-chicken-avocado-lime-and-mixed-greens-lettuce-parsley-521741356.jpg);
+background-size:cover;
 }
 
 .three {
   grid-area: 4 / 1 / 7 / 3;
-  background-color: #0000FF;
+  background-image: url(https://images.unsplash.com/photo-1503838922633-d7892c7a2bc0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fdf7220735fdafd18768fe29157256b7&auto=format&fit=crop&w=334&q=80);
 }
 
 .four {
