@@ -16,7 +16,7 @@ body {
 
 .one {
   grid-area: 1 / 1 / 4 / 4;
-  background-color: #00FF00;
+  background-image: url(https://images.unsplash.com/photo-1503243368095-00d2d648be32?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=957833ee1d1fe3fd9d876b132592ad20&auto=format&fit=crop&w=500&q=60);
 }
 
 .two {
