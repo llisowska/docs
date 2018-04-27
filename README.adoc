@@ -49,8 +49,6 @@ Prawdopodobnie część kuchni gruzińskiej ma swoje korzenie w Indiach. Chleb p
 
 image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200]
 
-image::docs/101px-Walnut_sauce.jpg[docs/101px-Walnut_sauce,200]
-
 == Przepis
 
 <https://www.kwestiasmaku.com/przepis/sos-adzika>
