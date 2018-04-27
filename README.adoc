@@ -26,8 +26,10 @@ image::docs/gruzja-rosja-mapa.jpg[Sunset]
 
 |Ustrój polityczny
 |demokracja
+
 |Liczba ludności
 |3 718 200
+
 |Waluta
 |1 lari = 100 tetri (GEL)
 |===
@@ -77,14 +79,39 @@ Rys.1. Pasta z czerwonej papryki
 [cols=2*]
 |===
 
-
 |image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
-|[#img-docs/Megruli_Chatschapuria]
-|Rys.2.Zapiekany placek nadziewany serem
+[#img-docs/Megruli_Chatschapuria]
+Rys.2.Zapiekany placek nadziewany serem
 
 |image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
-|[#img-docs/800px-Adjaruli_Khachapuri]
-|Rys.3.Zapiekany placek z serem i jajkiem
+[#img-docs/800px-Adjaruli_Khachapuri]
+Rys.3.Zapiekany placek z serem i jajkiem
+
+|===
+
+
+
+
+
+
+
+
+
+
+
+
+
+|===
+[cols=2*]
+|===
+
+|image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
+[#img-docs/Megruli_Chatschapuria]
+Rys.2.Zapiekany placek nadziewany serem
+
+|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+[#img-docs/800px-Adjaruli_Khachapuri]
+Rys.3.Zapiekany placek z serem i jajkiem
 
 |===
 
