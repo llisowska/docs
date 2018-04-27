@@ -77,8 +77,7 @@ Rys.1. Pasta z czerwonej papryki
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
 |==
-|image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200] 
-|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200] | image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 |==
 
 
