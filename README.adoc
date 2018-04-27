@@ -72,13 +72,13 @@ Rys.1. Pasta z czerwonej papryki
 ** *Pchali*  – danie z różnymi posiekanymi i mielonymi warzywami (z bakłażanów, kapusty, szpinaku, fasoli lub buraków) i połączone z orzechami włoskimi, octem, cebulą, czosnkiem, nasionami granatu i ziołam.
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
-[#img-docs/Megruli_Chatschapuria]
-.Zapiekany placek nadziewany serem
 image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
+[#img-docs/Megruli_Chatschapuria]
+Rys.2.Zapiekany placek nadziewany serem
 
-[#img-docs/800px-Adjaruli_Khachapuri]
-.Zapiekany placek z serem i jajkiem
 image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+[#img-docs/800px-Adjaruli_Khachapuri]
+Rys.3.Zapiekany placek z serem i jajkiem
 
 == Przepis
 
@@ -96,14 +96,13 @@ image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 ** *Kurczak Tabaka* – kurczak, który smażony jest na tradycyjnej patelni tapa. Danie jest często doprawiane czosnkiem i tradycyjnymi gruzińskimi sosami.
 ** *Kubdari* – placek z farszem mięsnym i przyprawami. Może być zarówno z wołowiny lub wieprzowiny, ale najbardziej popularna wersja używa obu rodzajów. Ważne aby było to mięso krojone a nie mielone.
 
-
-[#img-docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2)]
-.Gęsta zupa gulaszowa
 image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2),200]
+[#img-docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2)]
+Rys.4. Gęsta zupa gulaszowa
 
-[#img-docs/docs/Khinkali_crop]
-.Pierogi o charakterystycznym kształcie „sakiewek”
 image::docs/Khinkali_crop.jpg[docs/Khinkali_crop,200]
+[#img-docs/docs/Khinkali_crop]
+Rys.5.Pierogi o charakterystycznym kształcie „sakiewek”
 
 == Przepis
 
@@ -119,9 +118,11 @@ image::docs/Khinkali_crop.jpg[docs/Khinkali_crop,200]
 
 image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Kakheti,_Georgia_—_Churchkhela,200]
 [#img-docs/docs/Kakheti,_Georgia_—_Churchkhela]
-Orzechy laskowe w cieście
+Rys.6.Orzechy laskowe w cieście
 
-image::docs/Gozinaki_with_walnuts.jpg[Sunset]
+image::docs/Gozinaki_with_walnuts.jpg[Gozinaki_with_walnuts,200]
+[#img-docs/docs/Gozinaki_with_walnuts]
+Rys.6.Słodkie danie z prażonych orzechów
 
 == Przepis
 
