@@ -5,6 +5,8 @@
 *Gruzja* - państwo położone na pograniczu Europy i Azji, w Kaukazie Południowym.
 
 image::docs/gruzja-rosja-mapa.jpg[Sunset]
+Żródło: www.wikipedia.pl
+
 [cols=1*]
 |===
 |Gruzja:
@@ -95,11 +97,11 @@ image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 
 
 [#img-docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2)]
-.Gęsta zupa
+.Gęsta zupa gulaszowa
 image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2),200]
 
 [#img-docs/docs/Khinkali_crop]
-.Gulasz jagnięcy
+.Pierogi o charakterystycznym kształcie „sakiewek”
 image::docs/Khinkali_crop.jpg[docs/Khinkali_crop,200]
 
 == Przepis
@@ -113,7 +115,9 @@ image::docs/Khinkali_crop.jpg[docs/Khinkali_crop,200]
 ** *Czurczchela* – nawleczone na nitkę orzechy laskowe zatopione w cieście, które powstaje z gęstego soku z winogron.
 ** *Gozinaki* – słodkie danie z prażonych orzechów włoskich, cukru i miodu. Przygotowuje się je na Nowy Rok.
 
-image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Sunset]
+[#img-docs/docs/Kakheti,_Georgia_—_Churchkhela]
+Orzechy laskowe w cieście
+image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Kakheti,_Georgia_—_Churchkhela,200]
 
 image::docs/Gozinaki_with_walnuts.jpg[Sunset]
 
