@@ -47,9 +47,9 @@ Prawdopodobnie część kuchni gruzińskiej ma swoje korzenie w Indiach. Chleb p
 ** *Saciwi* – pasta z orzechów z przyprawami. Podawana na zimno. Dodatek do wielu mięs, ryb i dań warzywnych.
 ** *Tkemali* – aromatyczny sos produkowany ze śliwek i przypraw. Podawany przede wszystkim do mięs.
 
-image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,400]
+image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200]
 
-image::docs/101px-Walnut_sauce.jpg[docs/101px-Walnut_sauce,400]
+image::docs/101px-Walnut_sauce.jpg[docs/101px-Walnut_sauce,200]
 
 == Przepis
 
