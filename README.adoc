@@ -4,7 +4,7 @@
 
 *Gruzja* - państwo położone na pograniczu Europy i Azji, w Kaukazie Południowym.
 
-image::gruzja-rosja-mapa.jpg[Sunset]
+image::docs/gruzja-rosja-mapa.jpg[Sunset]
 [cols=1*]
 |===
 |Gruzja:
@@ -47,8 +47,8 @@ Prawdopodobnie część kuchni gruzińskiej ma swoje korzenie w Indiach. Chleb p
 ** *Saciwi* – pasta z orzechów z przyprawami. Podawana na zimno. Dodatek do wielu mięs, ryb i dań warzywnych.
 ** *Tkemali* – aromatyczny sos produkowany ze śliwek i przypraw. Podawany przede wszystkim do mięs.
 
-image::Megrelian_ajika.jpg[Sunset]
-image::101px-Walnut_sauce.jpg[Sunset]
+image::docs/Megrelian_ajika.jpg[Sunset]
+image::docs/101px-Walnut_sauce.jpg[Sunset]
 
 == Przepis
 
@@ -68,9 +68,9 @@ image::101px-Walnut_sauce.jpg[Sunset]
 ** *Pchali*  – danie z różnymi posiekanymi i mielonymi warzywami (z bakłażanów, kapusty, szpinaku, fasoli lub buraków) i połączone z orzechami włoskimi, octem, cebulą, czosnkiem, nasionami granatu i ziołam.
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
-image::Megruli_Chatschapuri.jpg[Sunset]
+image::docs/Megruli_Chatschapuri.jpg[Sunset]
 
-image::800px-Adjaruli_Khachapuri.jpg[Sunset]
+image::docs/800px-Adjaruli_Khachapuri.jpg[Sunset]
 
 == Przepis
 
@@ -88,9 +88,9 @@ image::800px-Adjaruli_Khachapuri.jpg[Sunset]
 ** *Kurczak Tabaka* – kurczak, który smażony jest na tradycyjnej patelni tapa. Danie jest często doprawiane czosnkiem i tradycyjnymi gruzińskimi sosami.
 ** *Kubdari* – placek z farszem mięsnym i przyprawami. Może być zarówno z wołowiny lub wieprzowiny, ale najbardziej popularna wersja używa obu rodzajów. Ważne aby było to mięso krojone a nie mielone.
 
-image::Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Sunset]
+image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Sunset]
 
-image::Khinkali_crop.jpg[Sunset]
+image::docs/Khinkali_crop.jpg[Sunset]
 
 == Przepis
 
@@ -103,9 +103,9 @@ image::Khinkali_crop.jpg[Sunset]
 ** *Czurczchela* – nawleczone na nitkę orzechy laskowe zatopione w cieście, które powstaje z gęstego soku z winogron.
 ** *Gozinaki* – słodkie danie z prażonych orzechów włoskich, cukru i miodu. Przygotowuje się je na Nowy Rok.
 
-image::Kakheti,_Georgia_—_Churchkhela.jpg[Sunset]
+image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Sunset]
 
-image::Gozinaki_with_walnuts.jpg[Sunset]
+image::docs/Gozinaki_with_walnuts.jpg[Sunset]
 
 == Przepis
 
