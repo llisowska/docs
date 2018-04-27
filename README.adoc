@@ -75,45 +75,13 @@ Rys.1. Pasta z czerwonej papryki
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
 
-|===
-[cols=2*]
-|===
-
-|image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
+image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
 [#img-docs/Megruli_Chatschapuria]
 Rys.2.Zapiekany placek nadziewany serem
 
-|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 [#img-docs/800px-Adjaruli_Khachapuri]
 Rys.3.Zapiekany placek z serem i jajkiem
-
-|===
-
-
-
-
-
-
-
-
-
-
-
-
-
-|===
-[cols=2*]
-|===
-
-|image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
-[#img-docs/Megruli_Chatschapuria]
-Rys.2.Zapiekany placek nadziewany serem
-
-|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
-[#img-docs/800px-Adjaruli_Khachapuri]
-Rys.3.Zapiekany placek z serem i jajkiem
-
-|===
 
 == Przepis
 
