@@ -18,7 +18,7 @@ image::docs/gruzja-rosja-mapa.jpg[Sunset]
 |Powierzchnia
 |69 700 km²
 
-|Stolica
+|Stolica 
 |Tbilisi
 
 |Język urzędowy
@@ -76,9 +76,10 @@ Rys.1. Pasta z czerwonej papryki
 ** *Pchali*  – danie z różnymi posiekanymi i mielonymi warzywami (z bakłażanów, kapusty, szpinaku, fasoli lub buraków) i połączone z orzechami włoskimi, octem, cebulą, czosnkiem, nasionami granatu i ziołam.
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
-
-image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
-
+|==
+|image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200] 
+|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+|==
 
 
 
