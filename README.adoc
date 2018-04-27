@@ -52,9 +52,10 @@ Prawdopodobnie część kuchni gruzińskiej ma swoje korzenie w Indiach. Chleb p
 ** *Tkemali* – aromatyczny sos produkowany ze śliwek i przypraw. Podawany przede wszystkim do mięs.
 
 
-image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200, float="center"]
+image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200,align="center"]
 [#img-docs/Megrelian_ajika]
 Rys.1. Pasta z czerwonej papryki
+
 
 == Przepis
 
