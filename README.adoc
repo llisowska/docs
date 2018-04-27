@@ -33,6 +33,7 @@ image::docs/gruzja-rosja-mapa.jpg[Sunset]
 |Waluta
 |1 lari = 100 tetri (GEL)
 |===
+Tabela.1. Dane statystyczne
 
 *Kuchnia gruzińska* zajmuje szczególne miejsce w gruzińskiej tradycji i jest częścią tożsamości dzisiejszych Gruzinów. Łagodny i zróżnicowany klimat Gruzji, zapewnia obfitość i różnorodność płodów rolnych, w tym wielu aromatycznych przypraw.
 
@@ -76,7 +77,11 @@ Rys.1. Pasta z czerwonej papryki
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
 
-image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
+image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]|image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
+
+
+
+
 [#img-docs/Megruli_Chatschapuria]
 Rys.2.Zapiekany placek nadziewany serem
 
