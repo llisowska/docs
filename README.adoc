@@ -96,7 +96,7 @@ Rys.3.Zapiekany placek z serem i jajkiem
 ** *Kurczak Tabaka* – kurczak, który smażony jest na tradycyjnej patelni tapa. Danie jest często doprawiane czosnkiem i tradycyjnymi gruzińskimi sosami.
 ** *Kubdari* – placek z farszem mięsnym i przyprawami. Może być zarówno z wołowiny lub wieprzowiny, ale najbardziej popularna wersja używa obu rodzajów. Ważne aby było to mięso krojone a nie mielone.
 
-image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2),100]
+image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2),150]
 [#img-docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2)]
 Rys.4. Gęsta zupa gulaszowa
 
@@ -116,7 +116,7 @@ Rys.5.Pierogi o charakterystycznym kształcie „sakiewek”
 ** *Gozinaki* – słodkie danie z prażonych orzechów włoskich, cukru i miodu. Przygotowuje się je na Nowy Rok.
 
 
-image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Kakheti,_Georgia_—_Churchkhela,100]
+image::docs/Kakheti,_Georgia_—_Churchkhela.jpg[Kakheti,_Georgia_—_Churchkhela,150]
 [#img-docs/docs/Kakheti,_Georgia_—_Churchkhela]
 Rys.6.Orzechy laskowe w cieście
 
