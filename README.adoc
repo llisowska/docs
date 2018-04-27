@@ -74,7 +74,7 @@ image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200]
 image::docs/Megruli_Chatschapuri.jpg[[docs/Megruli_Chatschapuri,200]]
 
 [#img-docs/800px-Adjaruli_Khachapuri]
-.Zapiekany placek z jajkime
+.Zapiekany placek z serem i jajkiem
 image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 
 == Przepis
