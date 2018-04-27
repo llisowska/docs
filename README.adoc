@@ -69,9 +69,13 @@ image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200]
 ** *Pchali*  – danie z różnymi posiekanymi i mielonymi warzywami (z bakłażanów, kapusty, szpinaku, fasoli lub buraków) i połączone z orzechami włoskimi, octem, cebulą, czosnkiem, nasionami granatu i ziołam.
 ** *Tolma* – to bakłażany, zielone pomidory lub papryka nadziewane mięsem lub pastą orzechową przyprawioną nasionami granatu oraz aromatycznymi ziołami.
 
-image::docs/Megruli_Chatschapuri.jpg[Sunset]
+[#img-docs/Megruli_Chatschapuria]
+.Zapiekany placek nadziewany serem
+image::docs/Megruli_Chatschapuri.jpg[[docs/Megruli_Chatschapuri,200]]
 
-image::docs/800px-Adjaruli_Khachapuri.jpg[Sunset]
+[#img-docs/800px-Adjaruli_Khachapuri]
+.Zapiekany placek z jajkime
+image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 
 == Przepis
 
