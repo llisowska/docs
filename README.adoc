@@ -71,7 +71,7 @@ image::docs/Megrelian_ajika.jpg[docs/Megrelian_ajika,200]
 
 [#img-docs/Megruli_Chatschapuria]
 .Zapiekany placek nadziewany serem
-image::docs/Megruli_Chatschapuri.jpg[[docs/Megruli_Chatschapuri,200]]
+image::docs/Megruli_Chatschapuri.jpg[docs/Megruli_Chatschapuri,200]
 
 [#img-docs/800px-Adjaruli_Khachapuri]
 .Zapiekany placek z serem i jajkiem
@@ -93,9 +93,14 @@ image::docs/800px-Adjaruli_Khachapuri.jpg[800px-Adjaruli_Khachapuri,200]
 ** *Kurczak Tabaka* – kurczak, który smażony jest na tradycyjnej patelni tapa. Danie jest często doprawiane czosnkiem i tradycyjnymi gruzińskimi sosami.
 ** *Kubdari* – placek z farszem mięsnym i przyprawami. Może być zarówno z wołowiny lub wieprzowiny, ale najbardziej popularna wersja używa obu rodzajów. Ważne aby było to mięso krojone a nie mielone.
 
-image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Sunset]
 
-image::docs/Khinkali_crop.jpg[Sunset]
+[#img-docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2)]
+.Gęsta zupa
+image::docs/Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2).jpg[Kharcho_soup_of_beef_with_walnuts_and_rice,_Georgian_cuisine_(2),200]
+
+[#img-docs/docs/Khinkali_crop]
+.Gulasz jagnięcy
+image::docs/Khinkali_crop.jpg[docs/Khinkali_crop,200]
 
 == Przepis
 
